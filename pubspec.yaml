@@ -1,0 +1,118 @@
+name: apparcar
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  cloud_firestore:
+  firebase_core:
+  firebase_messaging:
+  flutter_local_notifications:
+  # firebase_database:
+  connectivity: ^0.3.2
+
+  flutter:
+    sdk: flutter
+  # photo_view: ^0.0.10
+  parallax_image:
+  intl: ^0.15.7
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  # map_view:
+
+  # color: 
+  # web_socket_channel:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/isotipo.gif
+    - assets/isotipo.png
+    - assets/logotipo.png
+    - assets/logotipo_lapaz.png
+    - assets/choose/choose1.png
+    - assets/choose/choose2.png
+    - assets/choose/choose_operador.png
+    - assets/choose/choose_conductor.png
+    - assets/choose/choose_empty.png
+    - assets/conductor/conductor_title.png
+    - assets/conductor/placa.png
+    - assets/conductor/street.png
+    - assets/conductor/arrow_up.png
+    - assets/conductor/arrow_down.png
+
+    - assets/calles/c1.jpg
+    - assets/calles/c2.jpg
+    - assets/calles/c3.jpg
+    - assets/calles/c4.jpg
+    - assets/calles/c5.jpg
+    - assets/calles/c6.jpg
+    - assets/calles/c7.jpg
+    - assets/calles/c8.jpg
+    - assets/calles/c9.jpg
+    - assets/calles/c1a.jpg
+    - assets/calles/c2a.jpg
+    - assets/calles/c3a.jpg
+    - assets/calles/c4a.jpg
+    - assets/calles/c5a.jpg
+    - assets/calles/c6a.jpg
+    - assets/calles/c7a.jpg
+    - assets/calles/c8a.jpg
+    - assets/calles/c9a.jpg
+
+    - assets/operador/id.png
+    - assets/operador/operador_title.png
+  #  - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Oswald
+      fonts:
+        - asset: assets/Oswald-Bold.ttf
+          weight: 700
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages

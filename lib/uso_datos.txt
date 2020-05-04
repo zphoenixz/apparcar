@@ -1,0 +1,9 @@
+
+Superusuario
+Consume 9 kb, por 11 consultas
+consultar los datos de todos los operadores de calle consume en total 4kb
+
+usuario
+usa 5kb desde loguearse, poner placa, cargar datos y realizar una reserva
+
+firestore optmize data usage with the implementations of querys

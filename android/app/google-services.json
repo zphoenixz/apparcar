@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "294079361602",
+    "firebase_url": "https://apparcar-421b6.firebaseio.com",
+    "project_id": "apparcar-421b6",
+    "storage_bucket": "apparcar-421b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294079361602:android:aefe7ac4d1ae0f17",
+        "android_client_info": {
+          "package_name": "com.example.apparcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294079361602-olmd5k03hvic84s2h52cmmg9o06rmjbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1w9D4_eWcbhrA59d0qk8Lif--tsVmr8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
