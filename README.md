@@ -2,7 +2,9 @@
 Online parking app that was proposed for La Paz Town hall.
 Unfortunately it got freeze.
 
-## Getting Started
+It uses flutter.
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Splash](Apparcar1.png)
+![Car plate](Apparcar3.png)
+![Parking slots per street](Apparcar4.png)
+
