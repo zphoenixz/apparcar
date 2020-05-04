@@ -1,6 +1,6 @@
 # apparcar
-
-A new Flutter project.
+Online parking app that was proposed for La Paz Town hall.
+Unfortunately it got freeze.
 
 ## Getting Started
 
