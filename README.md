@@ -4,7 +4,9 @@ Unfortunately it got freeze.
 
 It uses flutter.
 
-![Splash](Apparcar1.png)
-![Car plate](Apparcar3.png)
+Splash             |  Car plate
+:-------------------------:|:-------------------------:
+![](Apparcar1.png) |  ![](Apparcar3.png)
+
 ![Parking slots per street](Apparcar4.png)
 
